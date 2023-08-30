@@ -1,0 +1,6 @@
+c=float(23)
+l=float(34)
+a=float(c*l)
+p=float(2.50)
+x=a/p
+print(x)
