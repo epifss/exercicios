@@ -1,0 +1,4 @@
+x=5
+y=6
+z= (x+y)/2
+print(f"média: {z}")
