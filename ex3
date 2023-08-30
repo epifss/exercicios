@@ -1,0 +1,4 @@
+x=5
+y=int(x*3+1)
+z=int(x*2-1)
+print(y+z)
