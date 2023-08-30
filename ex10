@@ -1,0 +1,7 @@
+co=20
+ca=22
+h=30
+sen=co/h
+cos=ca/h
+tan=co/ca
+print(f'o sen deste triangulo é {sen:.2f}, o cosseno é {cos:.2f} e a tangente é {tan:.2f}')
