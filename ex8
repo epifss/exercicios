@@ -1,0 +1,6 @@
+x=30
+y=4
+q=x//y
+r=x%y
+print(f'{x}.......{y}')
+print(f'quociente:{q}   resto:{r}')
